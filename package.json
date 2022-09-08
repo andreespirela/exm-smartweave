@@ -1,0 +1,24 @@
+{
+  "name": "exm-smartweave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreespirela/exm-smartweave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreespirela/exm-smartweave/issues"
+  },
+  "homepage": "https://github.com/andreespirela/exm-smartweave#readme",
+  "dependencies": {
+    "@three-em/node": "^0.3.13",
+    "@three-em/node-darwin-arm64": "^0.3.13",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
